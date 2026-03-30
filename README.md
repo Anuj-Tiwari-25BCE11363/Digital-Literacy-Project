@@ -12,7 +12,7 @@
 | **Branch** | B.Tech – Computer Science and Engineering |
 | **Year** | First Year |
 | **Course Code** | CSE0001 – Digital Literacy |
-| **Date** | March 2026 |
+| **Date** | 31st March 2026 |
 
 ---
 
@@ -53,8 +53,8 @@ Set up professional profiles on three platforms:
 - **Kaggle** – for data science practice and ML competitions
 
 📁 See: `task-2-portfolio/`
-🔗 LinkedIn: [Anuj Tiwari](https://www.linkedin.com/in/anuj-tiwari)
-🔗 Kaggle: [anujtiwari777](https://www.kaggle.com/anujtiwari777)
+🔗 LinkedIn: [Anuj Tiwari](https://www.linkedin.com/in/anuj-tiwari-a692073ba/)
+🔗 Kaggle: [anujtiwari777]([https://www.kaggle.com/anujtiwari777])
 
 ---
 
@@ -89,8 +89,8 @@ Set up professional profiles on three platforms:
 |---|---|
 | Digital Literacy Quiz (Google Form) | [Open Form](https://docs.google.com/forms/d/e/1FAIpQLSeGWSqvPtadqMBw7KfqE1FEGYwHwc68PetJSjpgjwSPXXoYlw/viewform?usp=publish-editor) |
 | GitHub Profile | [Anuj-Tiwari-25BCE11363](https://github.com/Anuj-Tiwari-25BCE11363) |
-| LinkedIn Profile | [Anuj Tiwari](https://www.linkedin.com/in/anuj-tiwari) |
-| Kaggle Profile | [anujtiwari777](https://www.kaggle.com/anujtiwari777) |
+| LinkedIn Profile | [Anuj Tiwari]([https://www.linkedin.com/in/anuj-tiwari](https://www.linkedin.com/in/anuj-tiwari-a692073ba/)) |
+| Kaggle Profile | [anujtiwari777]([https://www.kaggle.com/anujtiwari777](https://www.kaggle.com/anujtiwari777)) |
 | Cyber Crime Portal | [cybercrime.gov.in](https://cybercrime.gov.in) |
 | Cyber Crime Helpline | 1930 (24x7) |
 
@@ -100,6 +100,3 @@ Set up professional profiles on three platforms:
 
 This project helped me realise that digital literacy is much more than just knowing how to use a computer. Setting up a GitHub and LinkedIn profile early, practising on HackerRank, understanding how phishing and identity theft work — these are all skills that will genuinely help me through college and beyond. The most useful part was learning how professional communication works online, from email etiquette to responsible social media use.
 
----
-
-*Submitted as part of CSE0001 – Digital Literacy | VIT Bhopal University | March 2026*
